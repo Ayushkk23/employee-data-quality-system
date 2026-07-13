@@ -1,0 +1,26 @@
+Employee Data Quality Report
+---------------------------------
+
+Total Employees : 5
+Total Departments : 3
+Highest Salary : Rs. 90000.00
+Lowest Salary : Rs. 55000.00
+Average Salary : Rs. 68000.00
+
+Employees per City
+-------------------
+Delhi : 1
+Mumbai : 1
+Pune : 3
+
+Employees per Department
+-------------------------
+Finance : 1
+HR : 1
+IT : 3
+
+Average Salary by Department
+----------------------------
+Finance : Rs. 60000.00
+HR : Rs. 65000.00
+IT : Rs. 71666.67
